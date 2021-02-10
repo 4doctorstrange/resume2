@@ -1,3 +1,3 @@
 # Resume
 
-<h4>Link for the website <a href="https://basicresume.herokuapp.com/">Harsh</a></h4> 
+<h4>Link for the website <a href='https://harsh-resume.herokuapp.com/'>Harsh</a></h4> 
